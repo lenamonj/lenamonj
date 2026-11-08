@@ -8,6 +8,4 @@ I build loops that are hard to fool.
 
 What interests me in agentic AI is the exit condition. Anyone can make a model take another step. The work is deciding, with evidence, when it has done enough, and making that a decision the model cannot talk its way past.
 
-Day job: portfolio manager in New York. Both were built on nights and weekends and tested on other people's code.
-
 The two project paragraphs mirror each other on purpose: Jeffy decides whether to believe the patch, housebroken decides whether to let it out the door. The closing line now says "Both" since there are two tools.
