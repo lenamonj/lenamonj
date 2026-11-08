@@ -6,4 +6,5 @@ I build loops that are hard to fool.
 
 **[housebroken](https://github.com/lenamonj/housebroken)** is the manners. Gates an agent must pass before it opens a pull request on someone else's repo: one finding, the smallest diff, a test that fails on their main, a body under 120 words, their AI policy read first, a second model's review. The gate refuses until every rule is met.
 
-The hard problem in agentic AI is the exit condition. Anyone can make a model take another step. The work is deciding, with evidence, when it has done enough.
+The hard problem in agentic AI is the exit condition. Anyone can make a model take another step.  
+The work is deciding, with evidence, when it has done enough.
